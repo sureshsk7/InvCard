@@ -1,0 +1,11 @@
+body{
+    background-image: url(card.jpeg);
+    background-repeat: no-repeat;
+    background-size: 130% 180%;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+h1,p{
+    color:red;
+}
